@@ -3083,5 +3083,303 @@
       "JavaScript",
       "Angular"
     ]
+  },
+  {
+    "name": "The Big Elixir",
+    "description": "The Big Elixir is a two-day, single track conference created to help developers take their Elixir skills to the next level. ",
+    "url": "https://www.thebigelixir.com",
+    "location": {
+      "city": "New Orleans, LA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "11-8-2018",
+      "end": "11-9-2018"
+    },
+    "tags": [
+      "Elixir",
+      "Ruby"
+    ]
+  },
+  {
+    "name": "dotJS 2018",
+    "description": "The largest JavaScript conference in Europe",
+    "url": "https://www.dotjs.io",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "11-9-2018",
+      "end": "11-9-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "dotCSS 2018",
+    "description": "The largest CSS conference in Europe",
+    "url": "https://www.dotcss.io",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "11-8-2018",
+      "end": "11-8-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Columbus Code Camp",
+    "description": "A technology-agnostic community event where software developers learn from their peers.",
+    "url": "https://columbuscodecamp.com",
+    "location": {
+      "city": "Columbus, OH",
+      "country": "USA"
+    },
+    "date": {
+      "start": "10-27-2018",
+      "end": "10-27-2018"
+    },
+    "tags": [
+      "Polygot",
+      "Development",
+      "Performance",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Tapia 2018",
+    "description": "The Tapia conference has always been a premier venue to acknowledge, to promote and to celebrate diversity in computing.",
+    "url": "http://tapiaconference.org/",
+    "location": {
+      "city": "Orlando, FL",
+      "country": "USA"
+    },
+    "date": {
+      "start": "09-19-2018",
+      "end": "09-22-2018"
+    },
+    "tags": [
+      "Development",
+      "Diversity"
+    ]
+  },
+  {
+    "name": "GHC-18",
+    "description": "Grace Hopper Celebration is the world's largest gathering of women technologists!",
+    "url": "https://ghc.anitab.org/",
+    "location": {
+      "city": "Houston, TX",
+      "country": "USA"
+    },
+    "date": {
+      "start": "09-26-2018",
+      "end": "09-28-2018"
+    },
+    "tags": [
+      "Development",
+      "Diversity",
+      "Female"
+    ]
+  },
+  {
+    "name": "GopherCon",
+    "description": "Focused on everything Golang.",
+    "url": "https://gophercon.com/",
+    "location": {
+      "city": "Denver, CO",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-27-2018",
+      "end": "08-30-2018"
+    },
+    "tags": [
+      "Golang"
+    ]
+  },
+  {
+    "name": "Dash",
+    "description": "Speed up, Scale up!",
+    "url": "https://www.dashcon.io/",
+    "location": {
+      "city": "New York, NY",
+      "country": "USA"
+    },
+    "date": {
+      "start": "07-11-2018",
+      "end": "07-12-2018"
+    },
+    "tags": [
+      "Infrastructure",
+      "DevOps",
+      "Performance",
+      "Scale"
+    ]
+  },
+  {
+    "name": "DockerCon",
+    "description": "The container conference for the Docker Community.",
+    "url": "http://2018.dockercon.com/",
+    "location": {
+      "city": "San Fancisco, CA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-12-2018",
+      "end": "06-14-2018"
+    },
+    "tags": [
+      "Docker",
+      "Containers",
+      "Infrastructure",
+      "DevOps"
+    ]
+  },
+  {
+    "name": "DEVit Web Conference",
+    "description": "Each year we meticulously vet and select remarkable speakers to deliver the best talks on web development. Whether it's Frontend, Backend, DevOps or Mobile that you care about, join us to learn about the most modern practices and techniques. A truly 360° conference! Organised by the most active, independent, non-profit, local organizations.",
+    "url": "http://devitconf.org/",
+    "location": {
+      "city": "Thessaloniki",
+      "country": "Greece"
+    },
+    "date": {
+      "start": "06-10-2018",
+      "end": "06-11-2018"
+    },
+    "tags": [
+      "Development",
+      "Backend",
+      "Frontend",
+      "DevOps",
+      "Mobile"
+    ]
+  },
+  {
+    "name": "Monitorama",
+    "description": "Popular conference about anything related to monitoring, metrics and tracing.",
+    "url": "http://monitorama.com",
+    "location": {
+      "city": "Portland, OR",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-4-2018",
+      "end": "06-6-2018"
+    },
+    "tags": [
+      "Monitoring",
+      "Performance",
+      "Metrics"
+    ]
+  },
+  {
+    "name": "dotScale 2018",
+    "description": "The European Tech Conference on Scalability.",
+    "url": "https://www.dotscale.io",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "06-1-2018",
+      "end": "06-1-2018"
+    },
+    "tags": [
+      "Monitoring",
+      "Performance",
+      "Scalability"
+    ]
+  },
+  {
+    "name": "dotAI 2018",
+    "description": "The Artificial Intelligence Conference for Developers.",
+    "url": "https://www.dotai.io",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "05-31-2018",
+      "end": "05-31-2018"
+    },
+    "tags": [
+      "Ddevelopment",
+      "AI"
+    ]
+  },
+  {
+    "name": "RevolutionConf 2018",
+    "description": "RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.  Back for our third year!",
+    "url": "https://www.dotai.io",
+    "location": {
+      "city": "Virginia Beach, VA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-17-2018",
+      "end": "05-18-2018"
+    },
+    "tags": [
+      "Ddevelopment",
+      "Performance",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "PyCon 2018",
+    "description": "Premier Python conference. Split into three parts - tutorial, conference and sprint days.",
+    "url": "https://us.pycon.org/2018",
+    "location": {
+      "city": "Cleveland, OH",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-9-2018",
+      "end": "05-17-2018"
+    },
+    "tags": [
+      "Python"
+    ]
+  },
+  {
+    "name": "PyCon 2018",
+    "description": "A CodeNewBie conference for community of programmers and people learning to code.",
+    "url": "http://codelandconf.com/",
+    "location": {
+      "city": "New York, NY",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-4-2018",
+      "end": "05-5-2018"
+    },
+    "tags": [
+      "Development",
+      "Beginners"
+    ]
+  },
+  {
+    "name": "Stir Trek: Infinity War",
+    "description": "2,000 software developers converge on a movie theater for a day packed with 48 great talks and a movie.",
+    "url": "http://stirtrek.com/",
+    "location": {
+      "city": "Columbus, OH",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-4-2018",
+      "end": "05-4-2018"
+    },
+    "tags": [
+      "Development",
+      "Movie"
+    ]
   }
 ]
