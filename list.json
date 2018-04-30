@@ -3607,5 +3607,5458 @@
       "Development",
       "Architecture"
     ]
+  },
+  {
+    "name": "DevOpsDay - Zürich",
+    "url": "https://www.devopsdays.org/events/2018-zurich",
+    "location": {
+      "city": "Zürich",
+      "country": "Switzerland"
+    },
+    "date": {
+      "start": "05-02-2018",
+      "end": "05-03-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "KubeCon + CloudNativeCon",
+    "url": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2018",
+    "location": {
+      "city": "Copenhagen",
+      "country": "Denmark"
+    },
+    "date": {
+      "start": "05-02-2018",
+      "end": "05-04-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "NodeDay",
+    "url": "http://nodeday.com/",
+    "location": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "date": {
+      "start": "05-02-2018",
+      "end": "05-02-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "RubyHACK",
+    "url": "http://rubyhack.com",
+    "location": {
+      "city": "Salt Lake City",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-03-2018",
+      "end": "05-04-2018"
+    },
+    "tags": [
+      "ruby"
+    ]
+  },
+  {
+    "name": "Haxe Summit",
+    "url": "https://summit.haxe.org",
+    "location": {
+      "city": "Seattle",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-03-2018",
+      "end": "05-05-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Austin",
+    "url": "https://www.devopsdays.org/events/2018-austin",
+    "location": {
+      "city": "Austin",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-03-2018",
+      "end": "05-04-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "TiE Inflect",
+    "url": "https://www.tieinflect.org",
+    "location": {
+      "city": "Santa Clara",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-04-2018",
+      "end": "05-04-2018"
+    },
+    "tags": [
+      "data"
+    ]
+  },
+  {
+    "name": "GopherCon SG",
+    "url": "https://2018.gophercon.sg/",
+    "location": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "date": {
+      "start": "05-04-2018",
+      "end": "05-04-2018"
+    },
+    "tags": [
+      "golang"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Beijing",
+    "url": "https://www.devopsdays.org/events/2018-beijing",
+    "location": {
+      "city": "Beijing",
+      "country": "China"
+    },
+    "date": {
+      "start": "05-04-2018",
+      "end": "05-05-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Codeland Conf",
+    "url": "http://codelandconf.com",
+    "location": {
+      "city": "New York City",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-04-2018",
+      "end": "05-05-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Ruby Unconf Hamburg",
+    "url": "http://rubyunconf.eu",
+    "location": {
+      "city": "Hamburg",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "05-05-2018",
+      "end": "05-06-2018"
+    },
+    "tags": [
+      "ruby"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Kiev",
+    "url": "https://www.devopsdays.org/events/2018-kiev",
+    "location": {
+      "city": "Kiev",
+      "country": "Ukraine"
+    },
+    "date": {
+      "start": "05-05-2018",
+      "end": "05-05-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Write the Docs Portland",
+    "url": "http://www.writethedocs.org/conf/portland/2018",
+    "location": {
+      "city": "Portland, OR",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-06-2018",
+      "end": "05-08-2018"
+    },
+    "tags": [
+      "tech-comm"
+    ]
+  },
+  {
+    "name": "UX+DEV Summit",
+    "url": "https://uxdsummit.com",
+    "location": {
+      "city": "Fort Lauderdale",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-07-2018",
+      "end": "05-11-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "Microsoft Build",
+    "url": "https://www.microsoft.com/en-us/build",
+    "location": {
+      "city": "Seattle, WA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-07-2018",
+      "end": "05-09-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "DevSecCon Tel Aviv",
+    "url": "http://www.devseccon.com/tel-aviv-2018",
+    "location": {
+      "city": "Tel Aviv",
+      "country": "Israel"
+    },
+    "date": {
+      "start": "05-07-2018",
+      "end": "05-07-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Angular Summit",
+    "url": "https://angularsummit.com",
+    "location": {
+      "city": "Chicago, IL",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-08-2018",
+      "end": "05-10-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "url": "https://events.google.com/io",
+    "name": "Google I/O",
+    "date": {
+      "start": "05-08-2018",
+      "end": "05-10-2018"
+    },
+    "location": {
+      "city": "Mountain View",
+      "country": "USA"
+    },
+    "tags": [
+      "android",
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Codemotion Amsterdam",
+    "url": "https://amsterdam2018.codemotionworld.com",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "date": {
+      "start": "05-08-2018",
+      "end": "05-09-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "PyCon US",
+    "url": "https://us.pycon.org/2018/",
+    "location": {
+      "city": "Cleveland, OH",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-09-2018",
+      "end": "05-17-2018"
+    },
+    "tags": [
+      "python"
+    ]
+  },
+  {
+    "name": "99U",
+    "url": "http://conference.99u.com",
+    "location": {
+      "city": "New York City",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-09-2018",
+      "end": "05-11-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "UX South Africa",
+    "url": "https://uxsouthafrica.com/jhb2018",
+    "location": {
+      "city": "Johannesburg",
+      "country": "South Africa"
+    },
+    "date": {
+      "start": "05-09-2018",
+      "end": "05-11-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "jsDay Italy",
+    "url": "https://2018.jsday.it",
+    "location": {
+      "city": "Verona",
+      "country": "Italy"
+    },
+    "date": {
+      "start": "05-09-2018",
+      "end": "05-10-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "QCon SP",
+    "url": "https://qconsp.com",
+    "location": {
+      "city": "São Paulo",
+      "country": "Brazil"
+    },
+    "date": {
+      "start": "05-09-2018",
+      "end": "05-11-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "DeltaV",
+    "url": "https://2018.deltavconf.com",
+    "location": {
+      "city": "London",
+      "country": "UK"
+    },
+    "date": {
+      "start": "05-10-2018",
+      "end": "05-11-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Madison + Ruby: Chicago",
+    "url": "https://ti.to/adorable/madison-ruby-chicago",
+    "location": {
+      "city": "Chicago, IL",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-10-2018",
+      "end": "05-11-2018"
+    },
+    "tags": [
+      "ruby"
+    ]
+  },
+  {
+    "name": "Awwwards San Fransisco",
+    "url": "https://conference.awwwards.com/san-francisco",
+    "location": {
+      "city": "San Fransisco",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-10-2018",
+      "end": "05-11-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "ReasonConf",
+    "url": "https://www.reason-conf.com",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    "date": {
+      "start": "05-11-2018",
+      "end": "05-13-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "phpDay",
+    "url": "https://2018.phpday.it",
+    "location": {
+      "city": "Verona",
+      "country": "Italy"
+    },
+    "date": {
+      "start": "05-11-2018",
+      "end": "05-12-2018"
+    },
+    "tags": [
+      "php"
+    ]
+  },
+  {
+    "url": "https://www.reason-conf.com",
+    "name": "Reason Conf",
+    "date": {
+      "start": "05-11-2018",
+      "end": "05-13-2018"
+    },
+    "location": {
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    "tags": [
+      "Javascript",
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "JandBeyond",
+    "url": "https://jandbeyond.org/",
+    "location": {
+      "city": "Cologne",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "05-11-2018",
+      "end": "05-13-2018"
+    },
+    "tags": [
+      "php"
+    ]
+  },
+  {
+    "name": "ROSS conf Amsterdam",
+    "url": "https://rossconfams.eventbrite.co.uk",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "date": {
+      "start": "05-11-2018",
+      "end": "05-12-2018"
+    },
+    "tags": [
+      "ruby"
+    ]
+  },
+  {
+    "name": "!!Con",
+    "url": "http://bangbangcon.com",
+    "location": {
+      "city": "New York, NY",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-12-2018",
+      "end": "05-13-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "UIKonf",
+    "url": "http://www.uikonf.com",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "05-13-2018",
+      "end": "05-16-2018"
+    },
+    "tags": [
+      "ios"
+    ]
+  },
+  {
+    "name": "DevOpsDay - City",
+    "url": "https://www.devopsdays.org/events/2018-salt-lake-city",
+    "location": {
+      "city": "Salt Lake City",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-15-2018",
+      "end": "05-16-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Design Thinking",
+    "url": "https://10times.com/design-thinkingsydney",
+    "location": {
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    "date": {
+      "start": "05-15-2018",
+      "end": "05-17-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "tcworld China",
+    "url": "https://tcworld-china.cn",
+    "location": {
+      "city": "Shanghai",
+      "country": "China"
+    },
+    "date": {
+      "start": "05-15-2018",
+      "end": "05-16-2018"
+    },
+    "tags": [
+      "tech-comm"
+    ]
+  },
+  {
+    "name": "WeAreDevelopers",
+    "url": "https://www.wearedevelopers.com/congress",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    "date": {
+      "start": "05-16-2018",
+      "end": "05-18-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Kiel",
+    "url": "https://www.devopsdays.org/events/2018-kiel",
+    "location": {
+      "city": "Kiel",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "05-16-2018",
+      "end": "05-17-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "ReactEurope",
+    "url": "https://www.react-europe.org",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "05-17-2018",
+      "end": "05-18-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "DevOpsDay - View",
+    "url": "https://www.devopsdays.org/events/2018-silicon-valley",
+    "location": {
+      "city": "Mountain View",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-17-2018",
+      "end": "05-18-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "NationJS",
+    "url": "http://nationjs.com",
+    "location": {
+      "city": "Washington, DC",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-18-2018",
+      "end": "05-18-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "HolyJS Piter",
+    "url": "https://holyjs-piter.ru/en",
+    "location": {
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    "date": {
+      "start": "05-19-2018",
+      "end": "05-20-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "PHPCon China",
+    "url": "http://www.phpconchina.com/",
+    "location": {
+      "city": "Shanghai",
+      "country": "China"
+    },
+    "date": {
+      "start": "05-19-2018",
+      "end": "05-20-2018"
+    },
+    "tags": [
+      "php"
+    ]
+  },
+  {
+    "name": "EmpEx NYC",
+    "url": "http://empex.co/nyc.html",
+    "location": {
+      "city": "New York",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-19-2018",
+      "end": "05-19-2018"
+    },
+    "tags": [
+      "elixir"
+    ]
+  },
+  {
+    "name": "JSDayES",
+    "url": "http://2018.jsday.es",
+    "location": {
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    "date": {
+      "start": "05-19-2018",
+      "end": "05-19-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "PHPKonf",
+    "url": "https://phpkonf.org",
+    "location": {
+      "city": "İstanbul",
+      "country": "Turkey"
+    },
+    "date": {
+      "start": "05-20-2018",
+      "end": "05-21-2018"
+    },
+    "tags": [
+      "php"
+    ]
+  },
+  {
+    "name": "STC Technical Communication Summit",
+    "url": "https://summit.stc.org",
+    "location": {
+      "city": "Orlando, FL",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-20-2018",
+      "end": "05-23-2018"
+    },
+    "tags": [
+      "tech-comm"
+    ]
+  },
+  {
+    "name": "Deconstruct",
+    "url": "https://www.deconstructconf.com",
+    "location": {
+      "city": "Seattle, WA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-21-2018",
+      "end": "05-22-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "The Design Conference",
+    "url": "http://www.designconference.org",
+    "location": {
+      "city": "Dubrovnik",
+      "country": "Croatia"
+    },
+    "date": {
+      "start": "05-21-2018",
+      "end": "05-24-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "CONFAB",
+    "url": "https://www.confabevents.com",
+    "location": {
+      "city": "Minneapolis",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-21-2018",
+      "end": "05-23-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "Delight Summit",
+    "url": "http://delight.us/conference",
+    "location": {
+      "city": "Portland",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-21-2018",
+      "end": "05-22-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "UX-LX",
+    "url": "http://ux-lx.com",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "date": {
+      "start": "05-22-2018",
+      "end": "05-25-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "DjangoCon Europe",
+    "url": "https://2018.djangocon.eu/",
+    "location": {
+      "city": "Heidelberg",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "05-23-2018",
+      "end": "05-27-2018"
+    },
+    "tags": [
+      "python"
+    ]
+  },
+  {
+    "name": "Container Camp AU",
+    "url": "https://2018.container.camp/au",
+    "location": {
+      "city": "Melbourne",
+      "country": "Australia"
+    },
+    "date": {
+      "start": "05-23-2018",
+      "end": "05-25-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "UX London",
+    "url": "https://2018.uxlondon.com",
+    "location": {
+      "city": "London",
+      "country": "UK"
+    },
+    "date": {
+      "start": "05-23-2018",
+      "end": "05-25-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "J on the Beach",
+    "url": "https://jonthebeach.com",
+    "location": {
+      "city": "Málaga",
+      "country": "Spain"
+    },
+    "date": {
+      "start": "05-23-2018",
+      "end": "05-25-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Semi Permanent",
+    "url": "https://www.semipermanent.com/events",
+    "location": {
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    "date": {
+      "start": "05-24-2018",
+      "end": "05-26-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "Front-Trends",
+    "url": "https://2018.front-trends.com",
+    "location": {
+      "city": "Warsaw",
+      "country": "Poland"
+    },
+    "date": {
+      "start": "05-24-2018",
+      "end": "05-25-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Stockholm",
+    "url": "https://www.devopsdays.org/events/2018-stockholm",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "date": {
+      "start": "05-24-2018",
+      "end": "05-25-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "DevOpsDays Stockholm",
+    "url": "https://www.devopsdays.org/events/2018-stockholm/welcome",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "date": {
+      "start": "05-24-2018",
+      "end": "05-25-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "OFFFest",
+    "url": "http://offf.barcelona",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "date": {
+      "start": "05-24-2018",
+      "end": "05-26-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "You Gotta Love Frontend",
+    "url": "http://yglf.com.ua",
+    "location": {
+      "city": "Kyiv",
+      "country": "Ukraine"
+    },
+    "date": {
+      "start": "05-24-2018",
+      "end": "05-25-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Victoria",
+    "url": "https://www.devopsdays.org/events/2018-victoria",
+    "location": {
+      "city": "Victoria",
+      "country": "Canada"
+    },
+    "date": {
+      "start": "05-25-2018",
+      "end": "05-25-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Agile Portugal 2018",
+    "url": "https://2018.agilept.org",
+    "location": {
+      "city": "Porto",
+      "country": "Portugal"
+    },
+    "date": {
+      "start": "05-25-2018",
+      "end": "05-25-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Balkan Ruby",
+    "url": "http://balkanruby.com",
+    "location": {
+      "city": "Sofia",
+      "country": "Bulgaria"
+    },
+    "date": {
+      "start": "05-25-2018",
+      "end": "05-26-2018"
+    },
+    "tags": [
+      "ruby"
+    ]
+  },
+  {
+    "name": "Vuejs Roadtrip – Barcelona",
+    "url": "https://www.vuejsroadtrip.com/barcelona",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "date": {
+      "start": "05-25-2018",
+      "end": "05-25-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Sud Web",
+    "url": "https://sudweb.fr/2018",
+    "location": {
+      "city": "Anduze",
+      "country": "France"
+    },
+    "date": {
+      "start": "05-25-2018",
+      "end": "05-26-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "rOpenSci Unconf",
+    "url": "http://unconf17.ropensci.org",
+    "location": {
+      "city": "Los Angeles",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-25-2018",
+      "end": "05-26-2018"
+    },
+    "tags": [
+      "data"
+    ]
+  },
+  {
+    "name": "ReactFoo Mumbai",
+    "url": "https://reactfoo.in/2018-mumbai",
+    "location": {
+      "city": "Mumbai",
+      "country": "India"
+    },
+    "date": {
+      "start": "05-26-2018",
+      "end": "05-26-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Voxxed Days",
+    "url": "https://voxxeddays.com/minsk",
+    "location": {
+      "city": "Minsk",
+      "country": "Belarus"
+    },
+    "date": {
+      "start": "05-26-2018",
+      "end": "05-26-2018"
+    },
+    "tags": [
+      "android"
+    ]
+  },
+  {
+    "name": "RustFest Paris",
+    "url": "http://rustfest.eu/",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "05-26-2018",
+      "end": "05-27-2018"
+    },
+    "tags": [
+      "rust"
+    ]
+  },
+  {
+    "name": "PHP Serbia Conference",
+    "url": "https://conf2018.phpsrbija.rs",
+    "location": {
+      "city": "Belgrade",
+      "country": "Serbia"
+    },
+    "date": {
+      "start": "05-26-2018",
+      "end": "05-27-2018"
+    },
+    "tags": [
+      "php"
+    ]
+  },
+  {
+    "name": "DesignThinkersVan",
+    "url": "https://www.designthinkers.com/Vancouver",
+    "location": {
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "date": {
+      "start": "05-29-2018",
+      "end": "05-30-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "RigaDevDays",
+    "url": "https://rigadevdays.lv",
+    "location": {
+      "city": "Riga",
+      "country": "Latvia"
+    },
+    "date": {
+      "start": "05-29-2018",
+      "end": "05-31-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "True North",
+    "url": "http://truenorthwaterloo.com",
+    "location": {
+      "city": "Waterloo",
+      "country": "Canada"
+    },
+    "date": {
+      "start": "05-29-2018",
+      "end": "05-31-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "jsconf.be",
+    "url": "https://www.jsconf.be/en",
+    "location": {
+      "city": "Bruges",
+      "country": "Belgium"
+    },
+    "date": {
+      "start": "05-29-2018",
+      "end": "05-30-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "JSConf Belgium",
+    "url": "https://www.jsconf.be/en",
+    "location": {
+      "city": "Bruges",
+      "country": "Belgium"
+    },
+    "date": {
+      "start": "05-29-2018",
+      "end": "05-30-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Locate",
+    "url": "https://www.mapbox.com/locate",
+    "location": {
+      "city": "San Francisco",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-30-2018",
+      "end": "05-31-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Toronto",
+    "url": "https://www.devopsdays.org/events/2018-toronto",
+    "location": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "date": {
+      "start": "05-30-2018",
+      "end": "05-31-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "DevSum",
+    "url": "https://www.devsum.se",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "date": {
+      "start": "05-31-2018",
+      "end": "06-01-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Frontend United",
+    "url": "http://frontendunited.org",
+    "location": {
+      "city": "Utrecht",
+      "country": "Netherlands"
+    },
+    "date": {
+      "start": "05-31-2018",
+      "end": "06-03-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "php[tek]",
+    "url": "https://tek.phparch.com",
+    "location": {
+      "city": "Atlanta, GA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-31-2018",
+      "end": "06-01-2018"
+    },
+    "tags": [
+      "php"
+    ]
+  },
+  {
+    "name": "RubyKaigi",
+    "url": "http://rubykaigi.org/2018",
+    "location": {
+      "city": "Sendai",
+      "country": "Japan"
+    },
+    "date": {
+      "start": "05-31-2018",
+      "end": "06-02-2018"
+    },
+    "tags": [
+      "ruby"
+    ]
+  },
+  {
+    "name": "dotAI",
+    "url": "https://www.dotai.io",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "05-31-2018",
+      "end": "05-31-2018"
+    },
+    "tags": [
+      "data"
+    ]
+  },
+  {
+    "name": "Shift Conf",
+    "url": "https://shiftconf.co",
+    "location": {
+      "city": "Split",
+      "country": "Croatia"
+    },
+    "date": {
+      "start": "05-31-2018",
+      "end": "06-01-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Frontend United",
+    "url": "https://www.frontendunited.org",
+    "location": {
+      "city": "Utrecht",
+      "country": "The Netherlands"
+    },
+    "date": {
+      "start": "05-31-2018",
+      "end": "06-02-2018"
+    },
+    "tags": [
+      "css"
+    ]
+  },
+  {
+    "name": "Evolution of TC",
+    "url": "http://evolution-of-tc.com",
+    "location": {
+      "city": "Sofia",
+      "country": "Bulgaria"
+    },
+    "date": {
+      "start": "05-31-2018",
+      "end": "06-01-2018"
+    },
+    "tags": [
+      "tech-comm"
+    ]
+  },
+  {
+    "name": "PyCon APAC",
+    "url": "https://pycon.sg/",
+    "location": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "date": {
+      "start": "05-31-2018",
+      "end": "06-02-2018"
+    },
+    "tags": [
+      "python"
+    ]
+  },
+  {
+    "name": "CSSConf EU",
+    "url": "https://2018.cssconf.eu",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "06-01-2018",
+      "end": "06-01-2018"
+    },
+    "tags": [
+      "css"
+    ]
+  },
+  {
+    "name": "GopherCon Iceland",
+    "url": "https://gophercon.is",
+    "location": {
+      "city": "Reykjavik",
+      "country": "Iceland"
+    },
+    "date": {
+      "start": "06-01-2018",
+      "end": "06-02-2018"
+    },
+    "tags": [
+      "golang"
+    ]
+  },
+  {
+    "name": "PyCon CZ",
+    "url": "https://cz.pycon.org/2018/",
+    "location": {
+      "city": "Prague",
+      "country": "Czech Republic"
+    },
+    "date": {
+      "start": "06-01-2018",
+      "end": "06-03-2018"
+    },
+    "tags": [
+      "python"
+    ]
+  },
+  {
+    "name": "AmsterdamJS",
+    "url": "https://amsterdamjs.com",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "date": {
+      "start": "06-01-2018",
+      "end": "06-01-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "dotScale",
+    "url": "https://2018.dotscale.io",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "06-01-2018",
+      "end": "06-01-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "JSConf EU",
+    "url": "https://2018.jsconf.eu",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "06-02-2018",
+      "end": "06-03-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "EuRuKo",
+    "url": "https://euruko2018.org",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    "date": {
+      "start": "06-02-2018",
+      "end": "06-03-2018"
+    },
+    "tags": [
+      "ruby"
+    ]
+  },
+  {
+    "name": "Mobile Fest",
+    "url": "http://mobilefest.com.ua/indexe.html",
+    "location": {
+      "city": "Kiev",
+      "country": "Ukraine"
+    },
+    "date": {
+      "start": "06-02-2018",
+      "end": "06-02-2018"
+    },
+    "tags": [
+      "android"
+    ]
+  },
+  {
+    "name": "RubyC",
+    "url": "http://rubyc.eu",
+    "location": {
+      "city": "Kyiv",
+      "country": "Ukraine"
+    },
+    "date": {
+      "start": "06-02-2018",
+      "end": "06-03-2018"
+    },
+    "tags": [
+      "ruby"
+    ]
+  },
+  {
+    "name": "MadWorld",
+    "url": "https://www.madcapsoftware.com/conference/madworld-2018",
+    "location": {
+      "city": "San Diego, CA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-03-2018",
+      "end": "06-06-2018"
+    },
+    "tags": [
+      "tech-comm"
+    ]
+  },
+  {
+    "name": "Layers",
+    "url": "https://layers.is/",
+    "location": {
+      "city": "San Jose",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-04-2018",
+      "end": "06-06-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "POLISHOPA Design Thinking Conference",
+    "url": "http://polishopa.pl/en",
+    "location": {
+      "city": "Bydgoszcz",
+      "country": "Poland"
+    },
+    "date": {
+      "start": "06-04-2018",
+      "end": "06-07-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "Web Rebels",
+    "url": "https://www.webrebels.org",
+    "location": {
+      "city": "Oslo",
+      "country": "Norway"
+    },
+    "date": {
+      "start": "06-04-2018",
+      "end": "06-05-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "WWDC",
+    "url": "https://developer.apple.com/wwdc",
+    "location": {
+      "city": "San Jose, CA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-04-2018",
+      "end": "06-08-2018"
+    },
+    "tags": [
+      "ios"
+    ]
+  },
+  {
+    "url": "https://2018.mceconf.com",
+    "name": "MCE",
+    "date": {
+      "start": "06-05-2018",
+      "end": "06-06-2018"
+    },
+    "location": {
+      "city": "Warsaw",
+      "country": "Poland"
+    },
+    "tags": [
+      "ruby",
+      "android"
+    ]
+  },
+  {
+    "url": "https://webconf.asia",
+    "name": "Webconf.asia",
+    "date": {
+      "start": "06-06-2018",
+      "end": "06-09-2018"
+    },
+    "location": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "tags": [
+      "Javascript",
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Boise",
+    "url": "https://www.devopsdays.org/events/2018-boise",
+    "location": {
+      "city": "Boise",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-06-2018",
+      "end": "06-06-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "SyntaxCon",
+    "url": "https://2018.syntaxcon.com",
+    "location": {
+      "city": "Charleston, SC",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-06-2018",
+      "end": "06-08-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Paulo",
+    "url": "https://www.devopsdays.org/events/2018-sao-paulo",
+    "location": {
+      "city": "São Paulo",
+      "country": "Brazil"
+    },
+    "date": {
+      "start": "06-06-2018",
+      "end": "06-07-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "DevOpsDay - DC",
+    "url": "https://www.devopsdays.org/events/2018-washington-dc",
+    "location": {
+      "city": "Washington, DC",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-06-2018",
+      "end": "06-07-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Product Camp",
+    "url": "https://productcamp.pl",
+    "location": {
+      "city": "Gdynia",
+      "country": "Poland"
+    },
+    "date": {
+      "start": "06-07-2018",
+      "end": "06-09-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "Dutch PHP Conference",
+    "url": "https://www.phpconference.nl",
+    "location": {
+      "city": "Amsterdam",
+      "country": "The Netherlands"
+    },
+    "date": {
+      "start": "06-07-2018",
+      "end": "06-09-2018"
+    },
+    "tags": [
+      "php"
+    ]
+  },
+  {
+    "name": "TakeOff Conference",
+    "url": "https://www.takeoffconf.io",
+    "location": {
+      "city": "Lille",
+      "country": "France"
+    },
+    "date": {
+      "start": "06-07-2018",
+      "end": "06-08-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Best of Web",
+    "url": "http://bestofweb.paris",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "06-07-2018",
+      "end": "06-08-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "pitercss_conf",
+    "url": "https://pitercss.com",
+    "location": {
+      "city": "St. Petersburg",
+      "country": "Russia"
+    },
+    "date": {
+      "start": "06-08-2018",
+      "end": "06-09-2018"
+    },
+    "tags": [
+      "css"
+    ]
+  },
+  {
+    "name": "Droidcon",
+    "url": "https://droidcon.at/",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    "date": {
+      "start": "06-08-2018",
+      "end": "06-09-2018"
+    },
+    "tags": [
+      "android"
+    ]
+  },
+  {
+    "name": "DEVit",
+    "url": "http://devitconf.org",
+    "location": {
+      "city": "Thessaloniki",
+      "country": "Greece"
+    },
+    "date": {
+      "start": "06-10-2018",
+      "end": "06-11-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "PHP fwdays",
+    "url": "https://fwdays.com/en/event/php-fwdays-2018",
+    "location": {
+      "city": "Kyiv",
+      "country": "Ukraine"
+    },
+    "date": {
+      "start": "06-10-2018",
+      "end": "06-10-2018"
+    },
+    "tags": [
+      "php"
+    ]
+  },
+  {
+    "name": "UX Strat EU",
+    "url": "https://uxstrat.com/europe",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "date": {
+      "start": "06-10-2018",
+      "end": "06-12-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "Fluent",
+    "url": "https://conferences.oreilly.com/fluent",
+    "location": {
+      "city": "San Jose, CA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-11-2018",
+      "end": "06-14-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "DockerCon",
+    "url": "https://2018.dockercon.com",
+    "location": {
+      "city": "San Fransisco",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-12-2018",
+      "end": "06-15-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Front Utah",
+    "url": "https://theinnovationenterprise.com/summits/ux-ui-innovation-summit-london-2018",
+    "location": {
+      "city": "London",
+      "country": "UK"
+    },
+    "date": {
+      "start": "06-12-2018",
+      "end": "06-13-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "UX Scotland",
+    "url": "http://uxscotland.net/2018",
+    "location": {
+      "city": "Edimburgh",
+      "country": "UK"
+    },
+    "date": {
+      "start": "06-13-2018",
+      "end": "06-15-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "UA Reloaded",
+    "url": "http://ua-reloaded.de",
+    "location": {
+      "city": "St. Leon-Rot",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "06-13-2018",
+      "end": "06-14-2018"
+    },
+    "tags": [
+      "tech-comm"
+    ]
+  },
+  {
+    "name": "ConvergeSE",
+    "url": "http://convergese.com",
+    "location": {
+      "city": "Columbia, SC",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-13-2018",
+      "end": "06-15-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "FrontCon",
+    "url": "https://frontcon.lv/",
+    "location": {
+      "city": "Riga",
+      "country": "Latvia"
+    },
+    "date": {
+      "start": "06-14-2018",
+      "end": "06-15-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "url": "https://cssday.nl/2018",
+    "name": "CSS Day + UX Special",
+    "date": {
+      "start": "06-14-2018",
+      "end": "06-15-2018"
+    },
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "tags": [
+      "css",
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "BuzzJS 3.1",
+    "url": "http://BuzzJS.com",
+    "location": {
+      "city": "New York City",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-14-2018",
+      "end": "06-15-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "GraphQL Europe",
+    "url": "https://www.graphql-europe.org",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "06-15-2018",
+      "end": "06-15-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Conference for Kotliners",
+    "url": "https://www.conferenceforkotliners.com",
+    "location": {
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    "date": {
+      "start": "06-15-2018",
+      "end": "06-15-2018"
+    },
+    "tags": [
+      "android"
+    ]
+  },
+  {
+    "name": "App Builders",
+    "url": "https://www.appbuilders.ch",
+    "location": {
+      "city": "Lugano",
+      "country": "Switzerland"
+    },
+    "date": {
+      "start": "06-16-2018",
+      "end": "06-17-2018"
+    },
+    "tags": [
+      "android"
+    ]
+  },
+  {
+    "name": "GORUCO",
+    "url": "http://goruco.com",
+    "location": {
+      "city": "New York",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-16-2018",
+      "end": "06-16-2018"
+    },
+    "tags": [
+      "elixir"
+    ]
+  },
+  {
+    "name": "SwiftFest",
+    "url": "http://swiftfest.io",
+    "location": {
+      "city": "Boston",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-18-2018",
+      "end": "06-19-2018"
+    },
+    "tags": [
+      "ios"
+    ]
+  },
+  {
+    "name": "DeveloperWeek",
+    "url": "http://www.developerweek.com/NYC",
+    "location": {
+      "city": "New York",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-18-2018",
+      "end": "06-20-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "enterJS",
+    "url": "https://www.enterjs.de",
+    "location": {
+      "city": "Darmstadt",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "06-19-2018",
+      "end": "06-21-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "We RISE",
+    "url": "https://werise.tech",
+    "location": {
+      "city": "Atlanta, GA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-21-2018",
+      "end": "06-22-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "DinosaurJS",
+    "url": "https://dinosaurjs.org",
+    "location": {
+      "city": "Denver, CO",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-21-2018",
+      "end": "06-22-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "SwiftAveiro",
+    "url": "http://swiftaveiro.xyz",
+    "location": {
+      "city": "Aveiro",
+      "country": "Portugal"
+    },
+    "date": {
+      "start": "06-21-2018",
+      "end": "06-22-2018"
+    },
+    "tags": [
+      "ios"
+    ]
+  },
+  {
+    "name": "AngularUP",
+    "url": "http://angular-up.com",
+    "location": {
+      "city": "Tel Aviv",
+      "country": "Israel"
+    },
+    "date": {
+      "start": "06-21-2018",
+      "end": "06-21-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "World AR VR Expo",
+    "url": "http://www.wavexc.com",
+    "location": {
+      "city": "Hyderabad",
+      "country": "India"
+    },
+    "date": {
+      "start": "06-22-2018",
+      "end": "06-24-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Ruby Conf Kenya",
+    "url": "http://rubyconf.nairuby.org/2018",
+    "location": {
+      "city": "Nairobi",
+      "country": "Kenya"
+    },
+    "date": {
+      "start": "06-22-2018",
+      "end": "06-22-2018"
+    },
+    "tags": [
+      "ruby"
+    ]
+  },
+  {
+    "name": "Droidcon Berlin",
+    "url": "https://www.de.droidcon.com",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "06-25-2018",
+      "end": "06-27-2018"
+    },
+    "tags": [
+      "android"
+    ]
+  },
+  {
+    "name": "Design / Content",
+    "url": "https://content.design",
+    "location": {
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "date": {
+      "start": "06-25-2018",
+      "end": "06-27-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "An Event Apart: Boston",
+    "url": "https://aneventapart.com/event/boston-2018",
+    "location": {
+      "city": "Boston, MA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-25-2018",
+      "end": "06-27-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Android Enterprise Summit @ Droidcon",
+    "url": "https://www.de.droidcon.com/enterprise-summit",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "06-25-2018",
+      "end": "06-27-2018"
+    },
+    "tags": [
+      "android"
+    ]
+  },
+  {
+    "name": "UXPA",
+    "url": "http://uxpa2018.org",
+    "location": {
+      "city": "Rio Mar",
+      "country": "Puerto Rico"
+    },
+    "date": {
+      "start": "06-26-2018",
+      "end": "06-28-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/toronto-2018",
+    "location": {
+      "city": "Tonronto",
+      "country": "Canada"
+    },
+    "date": {
+      "start": "06-26-2018",
+      "end": "06-27-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/toronto-2018",
+    "location": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "date": {
+      "start": "06-26-2018",
+      "end": "06-27-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "#LeadDev London - The Lead Developer Conference",
+    "url": "https://london2018.theleaddeveloper.com",
+    "location": {
+      "city": "London",
+      "country": "UK"
+    },
+    "date": {
+      "start": "06-27-2018",
+      "end": "06-28-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "QCon NY",
+    "url": "https://qconnewyork.com",
+    "location": {
+      "city": "New York City",
+      "country": "USA"
+    },
+    "date": {
+      "start": "06-27-2018",
+      "end": "06-29-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Amsterdam",
+    "url": "https://www.devopsdays.org/events/2018-amsterdam",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "date": {
+      "start": "06-27-2018",
+      "end": "06-29-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Sunny Tech",
+    "url": "https://sunny-tech.io",
+    "location": {
+      "city": "Montpellier",
+      "country": "France"
+    },
+    "date": {
+      "start": "06-28-2018",
+      "end": "06-29-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "WorkerConf",
+    "url": "https://worker.sh/",
+    "location": {
+      "city": "Dornbirn",
+      "country": "Austria"
+    },
+    "date": {
+      "start": "06-28-2018",
+      "end": "06-28-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Paris.rb Conf",
+    "url": "http://2018.rubyparis.org",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "06-28-2018",
+      "end": "06-29-2018"
+    },
+    "tags": [
+      "ruby"
+    ]
+  },
+  {
+    "name": "AmpersandConf",
+    "url": "https://2018.ampersandconf.com",
+    "location": {
+      "city": "Brighton",
+      "country": "UK"
+    },
+    "date": {
+      "start": "06-29-2018",
+      "end": "06-29-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "Vuejs Roadtrip – Paris",
+    "url": "https://www.vuejsroadtrip.com",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "06-29-2018",
+      "end": "06-29-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "PyConWeb",
+    "url": "https://pyconweb.com",
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "06-30-2018",
+      "end": "07-01-2018"
+    },
+    "tags": [
+      "python"
+    ]
+  },
+  {
+    "name": "Swift Island",
+    "url": "http://www.swiftisland.nl",
+    "location": {
+      "city": "Texel",
+      "country": "Netherlands"
+    },
+    "date": {
+      "start": "07-04-2018",
+      "end": "07-05-2018"
+    },
+    "tags": [
+      "ios"
+    ]
+  },
+  {
+    "url": "https://addconf.com",
+    "name": "ADDC - App Design & Development Conference",
+    "date": {
+      "start": "07-04-2018",
+      "end": "07-06-2018"
+    },
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "tags": [
+      "UX",
+      "Frontend",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "name": "PyData Berlin",
+    "url": "https://pydata.org/berlin2018",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "07-06-2018",
+      "end": "07-08-2018"
+    },
+    "tags": [
+      "data"
+    ]
+  },
+  {
+    "name": "OdessaJS",
+    "url": "http://odessajs.org",
+    "location": {
+      "city": "Odessa",
+      "country": "Ukraine"
+    },
+    "date": {
+      "start": "07-06-2018",
+      "end": "07-08-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Brighton Ruby",
+    "url": "https://brightonruby.com",
+    "location": {
+      "city": "Brighton",
+      "country": "UK"
+    },
+    "date": {
+      "start": "07-06-2018",
+      "end": "07-06-2018"
+    },
+    "tags": [
+      "ruby"
+    ]
+  },
+  {
+    "name": "ACM UMAP",
+    "url": "http://www.um.org/umap2018",
+    "location": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "date": {
+      "start": "07-08-2018",
+      "end": "07-11-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "RISE",
+    "url": "https://riseconf.com",
+    "location": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "date": {
+      "start": "07-09-2018",
+      "end": "07-12-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "SciPy",
+    "url": "https://scipy2018.scipy.org/ehome/299527/648104/",
+    "location": {
+      "city": "Austin, TX",
+      "country": "USA"
+    },
+    "date": {
+      "start": "07-09-2018",
+      "end": "07-15-2018"
+    },
+    "tags": [
+      "python"
+    ]
+  },
+  {
+    "name": "Chain React",
+    "url": "https://infinite.red/ChainReactConf",
+    "location": {
+      "city": "Portland",
+      "country": "USA"
+    },
+    "date": {
+      "start": "07-11-2018",
+      "end": "07-13-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "FullStack",
+    "url": "https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-Javascript-node-and-internet-of-things",
+    "location": {
+      "city": "London",
+      "country": "UK"
+    },
+    "date": {
+      "start": "07-11-2018",
+      "end": "07-13-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Minneapolis",
+    "url": "https://www.devopsdays.org/events/2018-minneapolis",
+    "location": {
+      "city": "Minneapolis",
+      "country": "USA"
+    },
+    "date": {
+      "start": "07-12-2018",
+      "end": "07-13-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "url": "https://www.middevcon.com",
+    "name": "Mid-Atlantic Dev Conference",
+    "date": {
+      "start": "07-13-2018",
+      "end": "07-14-2018"
+    },
+    "location": {
+      "city": "Baltimore, MD",
+      "country": "USA"
+    },
+    "tags": [
+      "php",
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "DroidJam",
+    "url": "https://www.droidjam.in/",
+    "location": {
+      "city": "Bangalore",
+      "country": "India"
+    },
+    "date": {
+      "start": "07-13-2018",
+      "end": "07-14-2018"
+    },
+    "tags": [
+      "android"
+    ]
+  },
+  {
+    "name": "Frontinsampa",
+    "url": "http://www.frontinsampa.com.br",
+    "location": {
+      "city": "São Paulo",
+      "country": "Brazil"
+    },
+    "date": {
+      "start": "07-14-2018",
+      "end": "07-14-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "AngularCamp",
+    "url": "https://angularcamp.org",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "date": {
+      "start": "07-18-2018",
+      "end": "07-20-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "WebCraftConf",
+    "url": "https://www.webcraft.com.jm",
+    "location": {
+      "city": "Kingston",
+      "country": "Jamaica"
+    },
+    "date": {
+      "start": "07-18-2018",
+      "end": "07-20-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "OSCON",
+    "url": "https://conferences.oreilly.com/oscon/oscon-or",
+    "location": {
+      "city": "Portland, OR",
+      "country": "USA"
+    },
+    "date": {
+      "start": "07-18-2018",
+      "end": "07-19-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "scotlandCSS",
+    "url": "http://scotlandcss.com",
+    "location": {
+      "city": "Edinburgh",
+      "country": "Scotland"
+    },
+    "date": {
+      "start": "07-18-2018",
+      "end": "07-18-2018"
+    },
+    "tags": [
+      "css"
+    ]
+  },
+  {
+    "name": "360|AnDev",
+    "url": "https://360andev.com",
+    "location": {
+      "city": "Denver, CO",
+      "country": "USA"
+    },
+    "date": {
+      "start": "07-19-2018",
+      "end": "07-20-2018"
+    },
+    "tags": [
+      "android"
+    ]
+  },
+  {
+    "name": "ScotlandJS",
+    "url": "http://scotlandjs.com",
+    "location": {
+      "city": "Edinburgh",
+      "country": "UK"
+    },
+    "date": {
+      "start": "07-19-2018",
+      "end": "07-20-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "PyCon Russia",
+    "url": "http://pycon.ru/2018/",
+    "location": {
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    "date": {
+      "start": "07-22-2018",
+      "end": "07-23-2018"
+    },
+    "tags": [
+      "python"
+    ]
+  },
+  {
+    "name": "JuPyter Con",
+    "url": "https://conferences.oreilly.com/jupyter/jup-ny",
+    "location": {
+      "city": "New York",
+      "country": "USA"
+    },
+    "date": {
+      "start": "07-22-2018",
+      "end": "07-24-2018"
+    },
+    "tags": [
+      "data"
+    ]
+  },
+  {
+    "name": "EuroPython Society",
+    "url": "https://ep2018.europython.eu",
+    "location": {
+      "city": "Edinburgh",
+      "country": "UK"
+    },
+    "date": {
+      "start": "07-23-2018",
+      "end": "07-29-2018"
+    },
+    "tags": [
+      "data"
+    ]
+  },
+  {
+    "name": "Node Summit",
+    "url": "http://www.nodesummit.com",
+    "location": {
+      "city": "San Francisco, CA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "07-23-2018",
+      "end": "07-25-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Indianapolis",
+    "url": "https://www.devopsdays.org/events/2018-indianapolis",
+    "location": {
+      "city": "Indianapolis",
+      "country": "USA"
+    },
+    "date": {
+      "start": "07-23-2018",
+      "end": "07-24-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "PHPDetroit",
+    "url": "https://phpdetroit.io",
+    "location": {
+      "city": "Detroit",
+      "country": "USA"
+    },
+    "date": {
+      "start": "07-26-2018",
+      "end": "07-28-2018"
+    },
+    "tags": [
+      "php"
+    ]
+  },
+  {
+    "name": "NEJS CONF",
+    "url": "https://2018.nejsconf.com",
+    "location": {
+      "city": "Omaha, NE",
+      "country": "USA"
+    },
+    "date": {
+      "start": "07-27-2018",
+      "end": "07-27-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Nebraska JavaScript Conference",
+    "url": "https://2018.nejsconf.com",
+    "location": {
+      "city": "Omaha, NE",
+      "country": "USA"
+    },
+    "date": {
+      "start": "07-27-2018",
+      "end": "07-27-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "AgileCrete Meets SoCraTes",
+    "url": "https://agilecrete.org",
+    "location": {
+      "city": "Heraklion",
+      "country": "Greece"
+    },
+    "date": {
+      "start": "07-30-2018",
+      "end": "07-31-2018"
+    },
+    "tags": [
+      "tech-comm"
+    ]
+  },
+  {
+    "name": "An Event Apart: Washington DC",
+    "url": "https://aneventapart.com/event/washington-dc-2018",
+    "location": {
+      "city": "Washington DC",
+      "country": "USA"
+    },
+    "date": {
+      "start": "07-30-2018",
+      "end": "08-01-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Web Directions Leaders",
+    "url": "http://webdirections.org/leaders",
+    "location": {
+      "city": "Melbourne",
+      "country": "Australia"
+    },
+    "date": {
+      "start": "08-01-2018",
+      "end": "08-01-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "GopherCon UK",
+    "url": "https://www.gophercon.co.uk/",
+    "location": {
+      "city": "London",
+      "country": "UK"
+    },
+    "date": {
+      "start": "08-01-2018",
+      "end": "08-03-2018"
+    },
+    "tags": [
+      "golang"
+    ]
+  },
+  {
+    "name": "Southeast Ruby",
+    "url": "https://southeastruby.com",
+    "location": {
+      "city": "Nashville",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-02-2018",
+      "end": "08-03-2018"
+    },
+    "tags": [
+      "ruby"
+    ]
+  },
+  {
+    "name": "Web Directions Code",
+    "url": "https://www.webdirections.org/code",
+    "location": {
+      "city": "Melbourne",
+      "country": "Australia"
+    },
+    "date": {
+      "start": "08-02-2018",
+      "end": "08-03-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Deccan Ruby Conf",
+    "url": "http://www.deccanrubyconf.org",
+    "location": {
+      "city": "Pune",
+      "country": "India"
+    },
+    "date": {
+      "start": "08-04-2018",
+      "end": "08-04-2018"
+    },
+    "tags": [
+      "ruby"
+    ]
+  },
+  {
+    "name": "ScaleConf New Zealand",
+    "url": "https://cfp.scaleconf.co.nz",
+    "location": {
+      "city": "Te Papa - Wellington",
+      "country": "New Zealand"
+    },
+    "date": {
+      "start": "08-06-2018",
+      "end": "08-07-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "JuliaCon",
+    "url": "http://juliacon.org/2018",
+    "location": {
+      "city": "London",
+      "country": "UK"
+    },
+    "date": {
+      "start": "08-07-2018",
+      "end": "08-11-2018"
+    },
+    "tags": [
+      "data"
+    ]
+  },
+  {
+    "name": "ngTalks Conference",
+    "url": "https://ngtalks.io/",
+    "location": {
+      "city": "Kharkiv",
+      "country": "Ukraine"
+    },
+    "date": {
+      "start": "08-08-2018",
+      "end": "08-11-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Midwest JS",
+    "url": "http://www.midwestjs.com",
+    "location": {
+      "city": "Minneapolis, MN",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-08-2018",
+      "end": "08-10-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "MidwestJS",
+    "url": "http://www.midwestjs.com",
+    "location": {
+      "city": "Minneapolis, MN",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-08-2018",
+      "end": "08-10-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Traction",
+    "url": "https://www.tractionconf.io",
+    "location": {
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "date": {
+      "start": "08-08-2018",
+      "end": "08-09-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "React Rally",
+    "url": "http://www.reactrally.com",
+    "location": {
+      "city": "Salt Lake City, UT",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-16-2018",
+      "end": "08-17-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "SouthEast PHP",
+    "url": "https://southeastphp.com",
+    "location": {
+      "city": "Nashville, TN",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-16-2018",
+      "end": "08-17-2018"
+    },
+    "tags": [
+      "php"
+    ]
+  },
+  {
+    "name": "RustConf",
+    "url": "http://rustconf.com/",
+    "location": {
+      "city": "Portland",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-16-2018",
+      "end": "08-17-2018"
+    },
+    "tags": [
+      "rust"
+    ]
+  },
+  {
+    "name": "Code Elixir",
+    "url": "http://www.elixir.london",
+    "location": {
+      "city": "London",
+      "country": "UK"
+    },
+    "date": {
+      "start": "08-16-2018",
+      "end": "08-16-2018"
+    },
+    "tags": [
+      "elixir"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Shanghai",
+    "url": "https://www.devopsdays.org/events/2018-shanghai",
+    "location": {
+      "city": "Shanghai",
+      "country": "China"
+    },
+    "date": {
+      "start": "08-17-2018",
+      "end": "08-18-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "ReactFoo Delhi",
+    "url": "https://reactfoo.in/2018-delhi",
+    "location": {
+      "city": "Delhi",
+      "country": "India"
+    },
+    "date": {
+      "start": "08-18-2018",
+      "end": "08-18-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "CSS Conf Argentina",
+    "url": "http://www.cssconfar.com",
+    "location": {
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "date": {
+      "start": "08-18-2018",
+      "end": "08-18-2018"
+    },
+    "tags": [
+      "css"
+    ]
+  },
+  {
+    "name": "Write the Docs Cincinnati",
+    "url": "http://www.writethedocs.org/conf/cincinnati/2018/",
+    "location": {
+      "city": "Cincinatti, OH",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-18-2018",
+      "end": "08-22-2018"
+    },
+    "tags": [
+      "tech-comm"
+    ]
+  },
+  {
+    "name": "Gartner Catalyst Conference",
+    "url": "https://www.gartner.com/events/na/catalyst",
+    "location": {
+      "city": "San Diego, CA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-20-2018",
+      "end": "08-23-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "UXWeek",
+    "url": "http://uxweek.com",
+    "location": {
+      "city": "San Fransisco",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-21-2018",
+      "end": "08-24-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "JSConf US",
+    "url": "https://2018.jsconf.us",
+    "location": {
+      "city": "Carlsbad, CA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-21-2018",
+      "end": "08-23-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "BrazilJS",
+    "url": "https://braziljs.org/conf/",
+    "location": {
+      "city": "Porto Alegre",
+      "country": "Brazil"
+    },
+    "date": {
+      "start": "08-24-2018",
+      "end": "08-25-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "FrOSCon",
+    "url": "https://www.froscon.de",
+    "location": {
+      "city": "Sankt Augustin",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "08-25-2018",
+      "end": "08-26-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "360|iDev",
+    "url": "http://360idev.com",
+    "location": {
+      "city": "Denver CO",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-26-2018",
+      "end": "08-29-2018"
+    },
+    "tags": [
+      "ios"
+    ]
+  },
+  {
+    "name": "/dev/world/2018",
+    "url": "http://devworld.com.au/",
+    "location": {
+      "city": "Melbourne",
+      "country": "Australia"
+    },
+    "date": {
+      "start": "08-26-2018",
+      "end": "08-28-2018"
+    },
+    "tags": [
+      "ios"
+    ]
+  },
+  {
+    "name": "An Event Apart: Chicago",
+    "url": "https://aneventapart.com/event/chicago-2018",
+    "location": {
+      "city": "Chicago, IL",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-27-2018",
+      "end": "08-29-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "GopherCon Denver",
+    "url": "http://gophercon.com",
+    "location": {
+      "city": "Denver",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-27-2018",
+      "end": "08-30-2018"
+    },
+    "tags": [
+      "golang"
+    ]
+  },
+  {
+    "name": "UX Australia",
+    "url": "http://www.uxaustralia.com.au/conferences/uxaustralia-2018",
+    "location": {
+      "city": "Melbourne",
+      "country": "Australia"
+    },
+    "date": {
+      "start": "08-28-2018",
+      "end": "08-31-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Chicago",
+    "url": "https://www.devopsdays.org/events/2018-chicago",
+    "location": {
+      "city": "Chicago",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-28-2018",
+      "end": "08-29-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Laracon EU",
+    "url": "https://laracon.eu/2018/",
+    "location": {
+      "city": "Amsterdam",
+      "country": "The Netherlands"
+    },
+    "date": {
+      "start": "08-29-2018",
+      "end": "08-31-2018"
+    },
+    "tags": [
+      "php"
+    ]
+  },
+  {
+    "name": "Black Atlanta Tech Week",
+    "url": "https://atlantablacktechweek.org/",
+    "location": {
+      "city": "Atlanta, GA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-29-2018",
+      "end": "09-01-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Web Summer Camp",
+    "url": "http://2018.websummercamp.com",
+    "location": {
+      "city": "Rovinj",
+      "country": "Croatia"
+    },
+    "date": {
+      "start": "08-29-2018",
+      "end": "09-01-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Open Source Summit North America",
+    "url": "https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/",
+    "location": {
+      "city": "Vancouver, BC",
+      "country": "Canada"
+    },
+    "date": {
+      "start": "08-29-2018",
+      "end": "08-31-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Frontend Conference Zürich",
+    "url": "https://www.frontendconf.ch",
+    "location": {
+      "city": "Zürich",
+      "country": "Switzerland"
+    },
+    "date": {
+      "start": "08-30-2018",
+      "end": "08-31-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "CoderCruise 2018",
+    "url": "https://www.codercruise.com",
+    "location": {
+      "city": "Ft. Lauderdale, FL",
+      "country": "USA"
+    },
+    "date": {
+      "start": "08-31-2018",
+      "end": "09-03-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "NightlyBuild",
+    "url": "https://www.nightlybuild.io",
+    "location": {
+      "city": "Cologne",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "08-31-2018",
+      "end": "08-31-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "DevSecCon Boston",
+    "url": "http://www.devseccon.com/boston-2018",
+    "location": {
+      "city": "Boston",
+      "country": "USA"
+    },
+    "date": {
+      "start": "09-01-2018",
+      "end": "09-01-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "iOSDevUK",
+    "url": "http://www.iosdevuk.com",
+    "location": {
+      "city": "Aberystwyth",
+      "country": "UK"
+    },
+    "date": {
+      "start": "09-03-2018",
+      "end": "09-06-2018"
+    },
+    "tags": [
+      "ios"
+    ]
+  },
+  {
+    "name": "Full Stack Fest",
+    "url": "https://2018.fullstackfest.com",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "date": {
+      "start": "09-03-2018",
+      "end": "09-07-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Taipei",
+    "url": "https://www.devopsdays.org/events/2018-taipei",
+    "location": {
+      "city": "Taipei",
+      "country": "Taiwan"
+    },
+    "date": {
+      "start": "09-04-2018",
+      "end": "09-06-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "ElixirConf US",
+    "url": "https://elixirconf.com",
+    "location": {
+      "city": "Bellevue",
+      "country": "USA"
+    },
+    "date": {
+      "start": "09-04-2018",
+      "end": "09-07-2018"
+    },
+    "tags": [
+      "elixir"
+    ]
+  },
+  {
+    "name": "Nordic.design",
+    "url": "http://nordic.design",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "date": {
+      "start": "09-05-2018",
+      "end": "09-05-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "React Native EU",
+    "url": "http://react-native.eu",
+    "location": {
+      "city": "Wroclaw",
+      "country": "Poland"
+    },
+    "date": {
+      "start": "09-05-2018",
+      "end": "09-06-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Northwest Tech Comm",
+    "url": "http://conference.writersua.com/techcomm",
+    "location": {
+      "city": "Tacoma, WA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "09-06-2018",
+      "end": "09-07-2018"
+    },
+    "tags": [
+      "tech-comm"
+    ]
+  },
+  {
+    "name": "ReactNext",
+    "url": "http://react-next.com",
+    "location": {
+      "city": "Tel Aviv",
+      "country": "Israel"
+    },
+    "date": {
+      "start": "09-06-2018",
+      "end": "09-06-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Nordic.js",
+    "url": "http://nordicjs.com",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "date": {
+      "start": "09-06-2018",
+      "end": "09-07-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Container Camp UK",
+    "url": "https://2018.container.camp/uk",
+    "location": {
+      "city": "London",
+      "country": "UK"
+    },
+    "date": {
+      "start": "09-06-2018",
+      "end": "09-07-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Jazoon Techdays",
+    "url": "http://jazoon.com",
+    "location": {
+      "city": "Bern",
+      "country": "Switzerland"
+    },
+    "date": {
+      "start": "09-06-2018",
+      "end": "09-07-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "url": "http://refresh.rocks",
+    "name": "Refresh",
+    "date": {
+      "start": "09-07-2018",
+      "end": "09-07-2018"
+    },
+    "location": {
+      "city": "Tallinn",
+      "country": "Estonia"
+    },
+    "tags": [
+      "Javascript",
+      "UX",
+      "Frontend",
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "The UX Conference",
+    "url": "http://theuxconf.com",
+    "location": {
+      "city": "London",
+      "country": "UK"
+    },
+    "date": {
+      "start": "09-07-2018",
+      "end": "09-07-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "Write the Docs Prague",
+    "url": "http://www.writethedocs.org/conf/prague/2018",
+    "location": {
+      "city": "Prague",
+      "country": "Czechia"
+    },
+    "date": {
+      "start": "09-09-2018",
+      "end": "09-11-2018"
+    },
+    "tags": [
+      "tech-comm"
+    ]
+  },
+  {
+    "name": "adaptTo()",
+    "url": "https://adapt.to/2018/en.html",
+    "location": {
+      "city": "Potsdam",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "09-10-2018",
+      "end": "09-12-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Drupal Europe",
+    "url": "https://www.drupaleurope.org",
+    "location": {
+      "city": "Darmstadt",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "09-10-2018",
+      "end": "09-14-2018"
+    },
+    "tags": [
+      "php"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Raleigh",
+    "url": "https://www.devopsdays.org/events/2018-raleigh",
+    "location": {
+      "city": "Raleigh",
+      "country": "USA"
+    },
+    "date": {
+      "start": "09-10-2018",
+      "end": "09-11-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/freiburg-2018",
+    "location": {
+      "city": "Freiburg",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "09-10-2018",
+      "end": "09-11-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Web Kongress Erlangen",
+    "url": "https://www.webkongress.fau.de",
+    "location": {
+      "city": "Erlangen",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "09-11-2018",
+      "end": "09-13-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Portland",
+    "url": "https://www.devopsdays.org/events/2018-portland",
+    "location": {
+      "city": "Portland",
+      "country": "USA"
+    },
+    "date": {
+      "start": "09-11-2018",
+      "end": "09-13-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Webkongress Erlangen",
+    "url": "https://webkongress.fau.de",
+    "location": {
+      "city": "Erlangen",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "09-11-2018",
+      "end": "09-13-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Webkongress Erlangen",
+    "url": "https://www.webkongress.fau.de",
+    "location": {
+      "city": "Erlangen",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "09-11-2018",
+      "end": "09-13-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Berlin",
+    "url": "https://www.devopsdays.org/events/2018-berlin",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "09-12-2018",
+      "end": "09-13-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "ServerSide.swift",
+    "url": "https://www.serversideswift.info",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "09-12-2018",
+      "end": "09-14-2018"
+    },
+    "tags": [
+      "ios"
+    ]
+  },
+  {
+    "name": "React Alicante",
+    "url": "http://reactalicante.es",
+    "location": {
+      "city": "Alicante",
+      "country": "Spain"
+    },
+    "date": {
+      "start": "09-13-2018",
+      "end": "09-15-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "JSFoo",
+    "url": "https://jsfoo.in",
+    "location": {
+      "city": "Bangalore",
+      "country": "India"
+    },
+    "date": {
+      "start": "09-13-2018",
+      "end": "09-14-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Vuejs Roadtrip – Berlin",
+    "url": "https://www.vuejsroadtrip.com",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "09-14-2018",
+      "end": "09-14-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "CodeDaze Vol.2",
+    "url": "https://www.papercall.io/codedazevol2",
+    "location": {
+      "city": "Buffalo, NY",
+      "country": "USA"
+    },
+    "date": {
+      "start": "09-14-2018",
+      "end": "09-15-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Highload fwdays",
+    "url": "https://fwdays.com/en/event/highload-fwdays-2018",
+    "location": {
+      "city": "Kyiv",
+      "country": "Ukraine"
+    },
+    "date": {
+      "start": "09-15-2018",
+      "end": "09-15-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Jenkins World",
+    "url": "https://www.cloudbees.com/jenkinsworld",
+    "location": {
+      "city": "San Francisco",
+      "country": "USA"
+    },
+    "date": {
+      "start": "09-16-2018",
+      "end": "09-19-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "UX Strat USA",
+    "url": "https://uxstrat.com/usa",
+    "location": {
+      "city": "Boulder",
+      "country": "USA"
+    },
+    "date": {
+      "start": "09-18-2018",
+      "end": "09-20-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "WavePHP",
+    "url": "https://www.wavephp.com",
+    "location": {
+      "city": "San Diego, CA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "09-19-2018",
+      "end": "09-21-2018"
+    },
+    "tags": [
+      "php"
+    ]
+  },
+  {
+    "name": "Web Audio Conf",
+    "url": "http://webaudioconf.com",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "09-19-2018",
+      "end": "09-21-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Circles",
+    "url": "http://circlesconference.com",
+    "location": {
+      "city": "Fort Worth, Texas",
+      "country": "USA"
+    },
+    "date": {
+      "start": "09-19-2018",
+      "end": "09-21-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "Northeast PHP Conference",
+    "url": "http://www.northeastphp.org",
+    "location": {
+      "city": "Boston, MA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "09-19-2018",
+      "end": "09-21-2018"
+    },
+    "tags": [
+      "php"
+    ]
+  },
+  {
+    "name": "SwiftConf",
+    "url": "https://swiftconf.com",
+    "location": {
+      "city": "Cologne",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "09-19-2018",
+      "end": "09-20-2018"
+    },
+    "tags": [
+      "ios"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Columbus",
+    "url": "https://www.devopsdays.org/events/2018-columbus",
+    "location": {
+      "city": "Columbus",
+      "country": "USA"
+    },
+    "date": {
+      "start": "09-19-2018",
+      "end": "09-20-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "FrenchKit",
+    "url": "http://www.frenchkit.fr",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "09-20-2018",
+      "end": "09-21-2018"
+    },
+    "tags": [
+      "ios"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Town",
+    "url": "https://www.devopsdays.org/events/2018-cape-town",
+    "location": {
+      "city": "Cape Town",
+      "country": "South Africa"
+    },
+    "date": {
+      "start": "09-20-2018",
+      "end": "09-21-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Istanbul",
+    "url": "https://www.devopsdays.org/events/2018-istanbul",
+    "location": {
+      "city": "Istanbul",
+      "country": "Turkey"
+    },
+    "date": {
+      "start": "09-20-2018",
+      "end": "09-20-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "WebExpo",
+    "url": "https://www.webexpo.net/prague2018",
+    "location": {
+      "city": "Prague",
+      "country": "Czech Republic"
+    },
+    "date": {
+      "start": "09-21-2018",
+      "end": "09-22-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Microsoft Ignite",
+    "url": "https://www.microsoft.com/en-us/ignite/default.aspx",
+    "location": {
+      "city": "Orlando",
+      "country": "USA"
+    },
+    "date": {
+      "start": "09-24-2018",
+      "end": "09-28-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Technical Communication UK Conference",
+    "url": "http://technicalcommunicationuk.com",
+    "location": {
+      "city": "Daventry, Northamptonshire",
+      "country": "UK"
+    },
+    "date": {
+      "start": "09-25-2018",
+      "end": "09-27-2018"
+    },
+    "tags": [
+      "tech-comm"
+    ]
+  },
+  {
+    "name": "NORDIC TechKomm",
+    "url": "https://nordic-techkomm.com",
+    "location": {
+      "city": "Copenhagen",
+      "country": "Denmark"
+    },
+    "date": {
+      "start": "09-26-2018",
+      "end": "09-27-2018"
+    },
+    "tags": [
+      "tech-comm"
+    ]
+  },
+  {
+    "name": "Design Matters",
+    "url": "https://designmatters.io",
+    "location": {
+      "city": "Copenhagen",
+      "country": "Denmark"
+    },
+    "date": {
+      "start": "09-26-2018",
+      "end": "09-27-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Riga",
+    "url": "https://www.devopsdays.org/events/2018-riga",
+    "location": {
+      "city": "Riga",
+      "country": "Latvia"
+    },
+    "date": {
+      "start": "09-27-2018",
+      "end": "09-28-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "GopherCon Brasil",
+    "url": "https://2018.gopherconbr.org/en",
+    "location": {
+      "city": "Florianópolis",
+      "country": "Brazil"
+    },
+    "date": {
+      "start": "09-27-2018",
+      "end": "09-29-2018"
+    },
+    "tags": [
+      "golang"
+    ]
+  },
+  {
+    "name": "Web Unleashed",
+    "url": "http://fitc.ca/event/webu18",
+    "location": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "date": {
+      "start": "10-01-2018",
+      "end": "10-02-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "The Web Unleashed",
+    "url": "http://fitc.ca/event/webu18",
+    "location": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "date": {
+      "start": "10-01-2018",
+      "end": "10-02-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Framework Summit",
+    "url": "https://www.frameworksummit.com",
+    "location": {
+      "city": "Park City, UT",
+      "country": "USA"
+    },
+    "date": {
+      "start": "10-02-2018",
+      "end": "10-03-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "KotlinConf",
+    "url": "https://kotlinconf.com",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "date": {
+      "start": "10-03-2018",
+      "end": "10-05-2018"
+    },
+    "tags": [
+      "android"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Detroit",
+    "url": "https://www.devopsdays.org/events/2018-detroit",
+    "location": {
+      "city": "Detroit",
+      "country": "USA"
+    },
+    "date": {
+      "start": "10-03-2018",
+      "end": "10-04-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Fronteers",
+    "url": "https://fronteers.nl/congres/2018",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "date": {
+      "start": "10-04-2018",
+      "end": "10-05-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Paris Web",
+    "url": "http://www.paris-web.fr",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "10-04-2018",
+      "end": "10-06-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "UXDX",
+    "url": "https://uxdxconf.com",
+    "location": {
+      "city": "Dublin",
+      "country": "Ireland"
+    },
+    "date": {
+      "start": "10-04-2018",
+      "end": "10-07-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "PyCon India",
+    "url": "https://in.pycon.org/2018/",
+    "location": {
+      "city": "Hyderabad",
+      "country": "India"
+    },
+    "date": {
+      "start": "10-05-2018",
+      "end": "10-09-2018"
+    },
+    "tags": [
+      "python"
+    ]
+  },
+  {
+    "name": "WebCamp Zagreb",
+    "url": "https://2018.webcampzg.org",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "date": {
+      "start": "10-05-2018",
+      "end": "10-06-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "ReactJS Day",
+    "url": "http://2018.reactjsday.it",
+    "location": {
+      "city": "Verona",
+      "country": "Italy"
+    },
+    "date": {
+      "start": "10-05-2018",
+      "end": "10-05-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "url": "http://appsconf.ru/2018",
+    "name": "AppsConf",
+    "date": {
+      "start": "10-08-2018",
+      "end": "10-09-2018"
+    },
+    "location": {
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    "tags": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "name": "An Event Apart: Orlando",
+    "url": "https://aneventapart.com/event/orlando-2018",
+    "location": {
+      "city": "Orlando, FL",
+      "country": "USA"
+    },
+    "date": {
+      "start": "10-08-2018",
+      "end": "10-10-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "PuppetConf",
+    "url": "https://puppet.com/puppetconf",
+    "location": {
+      "city": "San Francisco",
+      "country": "USA"
+    },
+    "date": {
+      "start": "10-09-2018",
+      "end": "10-11-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "PolarConf",
+    "url": "https://www.papercall.io/polcarconf-2018",
+    "location": {
+      "city": "Helsinki",
+      "country": "Finland"
+    },
+    "date": {
+      "start": "10-10-2018",
+      "end": "10-11-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "AngularMix",
+    "url": "https://angularmix.com",
+    "location": {
+      "city": "Orlando, FL",
+      "country": "USA"
+    },
+    "date": {
+      "start": "10-10-2018",
+      "end": "10-12-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Angular Mix",
+    "url": "https://angularmix.com",
+    "location": {
+      "city": "Orlando, FL",
+      "country": "USA"
+    },
+    "date": {
+      "start": "10-10-2018",
+      "end": "10-12-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "JS Interactive",
+    "url": "https://events.linuxfoundation.org/events/js-interactive-2018",
+    "location": {
+      "city": "Vancouver, BC",
+      "country": "Canada"
+    },
+    "date": {
+      "start": "10-10-2018",
+      "end": "10-12-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "EmberFest",
+    "url": "https://emberfest.eu",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "10-11-2018",
+      "end": "10-12-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "MidwestUX",
+    "url": "https://www.2018.midwestuxconference.com/",
+    "location": {
+      "city": "Chicago, IL",
+      "country": "USA"
+    },
+    "date": {
+      "start": "10-11-2018",
+      "end": "10-13-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "RuhrJS",
+    "url": "https://ruhrjs.de",
+    "location": {
+      "city": "Bochum",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "10-13-2018",
+      "end": "10-14-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "International JavaScript Conference",
+    "url": "https://Javascript-conference.com/en",
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "10-15-2018",
+      "end": "10-19-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "World Usability Congress",
+    "url": "https://worldusabilitycongress.com",
+    "location": {
+      "city": "Graz",
+      "country": "Austria"
+    },
+    "date": {
+      "start": "10-16-2018",
+      "end": "10-18-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "Web Developer Conference (WDC)",
+    "url": "https://www.web-developer-conference.de",
+    "location": {
+      "city": "München",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "10-16-2018",
+      "end": "10-18-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Paris",
+    "url": "https://www.devopsdays.org/events/2018-paris",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "10-16-2018",
+      "end": "10-16-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Connect.Tech",
+    "url": "http://connect.tech",
+    "location": {
+      "city": "Atlanta, GA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "10-17-2018",
+      "end": "10-19-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "DevOpsDay - City",
+    "url": "https://www.devopsdays.org/events/2018-kansas-city",
+    "location": {
+      "city": "Kansas City",
+      "country": "USA"
+    },
+    "date": {
+      "start": "10-17-2018",
+      "end": "10-18-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "DevSecCon London",
+    "url": "http://www.devseccon.com/london-2018",
+    "location": {
+      "city": "London",
+      "country": "UK"
+    },
+    "date": {
+      "start": "10-18-2018",
+      "end": "10-19-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Software-QS-Tag",
+    "url": "http://www.qs-tag.de/en",
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "10-18-2018",
+      "end": "10-19-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Swift by Northwest",
+    "url": "https://swiftbynorthwest.com",
+    "location": {
+      "city": "Portland, OR",
+      "country": "USA"
+    },
+    "date": {
+      "start": "10-18-2018",
+      "end": "10-20-2018"
+    },
+    "tags": [
+      "ios"
+    ]
+  },
+  {
+    "name": "LavaCon Content Strategy Conference",
+    "url": "https://lavacon.org",
+    "location": {
+      "city": "New Orleans, LA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "10-21-2018",
+      "end": "10-24-2018"
+    },
+    "tags": [
+      "tech-comm"
+    ]
+  },
+  {
+    "name": "All Things Open",
+    "url": "https://allthingsopen.org",
+    "location": {
+      "city": "Raleigh",
+      "country": "USA"
+    },
+    "date": {
+      "start": "10-21-2018",
+      "end": "10-23-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "GoLab",
+    "url": "http://golab.io",
+    "location": {
+      "city": "Florence",
+      "country": "Italy"
+    },
+    "date": {
+      "start": "10-22-2018",
+      "end": "10-23-2018"
+    },
+    "tags": [
+      "golang"
+    ]
+  },
+  {
+    "name": "Open Source Summit Europe",
+    "url": "https://events.linuxfoundation.org/events/open-source-summit-europe-2018/",
+    "location": {
+      "city": "Edinburgh",
+      "country": "UK"
+    },
+    "date": {
+      "start": "10-22-2018",
+      "end": "10-28-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Jenkins World",
+    "url": "https://www.cloudbees.com/jenkinsworld",
+    "location": {
+      "city": "Nice",
+      "country": "France"
+    },
+    "date": {
+      "start": "10-22-2018",
+      "end": "10-25-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Philadelphia",
+    "url": "https://www.devopsdays.org/events/2018-philadelphia",
+    "location": {
+      "city": "Philadelphia",
+      "country": "USA"
+    },
+    "date": {
+      "start": "10-23-2018",
+      "end": "10-24-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "NConf",
+    "url": "https://nconf.de",
+    "location": {
+      "city": "Rostock",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "10-23-2018",
+      "end": "10-23-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "BlendWebMix",
+    "url": "http://www.blendwebmix.com",
+    "location": {
+      "city": "Lyon",
+      "country": "France"
+    },
+    "date": {
+      "start": "10-24-2018",
+      "end": "10-25-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "RubyConf MY",
+    "url": "http://rubyconf.my",
+    "location": {
+      "city": "Kuala Lumpur",
+      "country": "Malaysia"
+    },
+    "date": {
+      "start": "10-25-2018",
+      "end": "10-26-2018"
+    },
+    "tags": [
+      "ruby"
+    ]
+  },
+  {
+    "name": "DesignUp",
+    "url": "https://designup.io",
+    "location": {
+      "city": "Bangalore",
+      "country": "India"
+    },
+    "date": {
+      "start": "10-26-2018",
+      "end": "10-28-2018"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "ReactiveConf",
+    "url": "https://reactiveconf.com",
+    "location": {
+      "city": "Prague",
+      "country": "Czech Republic"
+    },
+    "date": {
+      "start": "10-29-2018",
+      "end": "10-31-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Web Directions AI",
+    "url": "http://webdirections.org/ai",
+    "location": {
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    "date": {
+      "start": "10-31-2018",
+      "end": "10-31-2018"
+    },
+    "tags": [
+      "data"
+    ]
+  },
+  {
+    "name": "Web Directions Culture",
+    "url": "http://webdirections.org/culture",
+    "location": {
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    "date": {
+      "start": "10-31-2018",
+      "end": "10-31-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Edinburgh",
+    "url": "https://www.devopsdays.org/events/2018-edinburgh",
+    "location": {
+      "city": "Edinburgh",
+      "country": "Scotland"
+    },
+    "date": {
+      "start": "11-01-2018",
+      "end": "11-02-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "url": "https://mobileera.rocks",
+    "name": "Mobile Era",
+    "date": {
+      "start": "11-01-2018",
+      "end": "11-02-2018"
+    },
+    "location": {
+      "city": "Oslo",
+      "country": "Norway"
+    },
+    "tags": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "url": "http://webdirections.org/wds",
+    "name": "Web Directions Summit",
+    "date": {
+      "start": "11-01-2018",
+      "end": "11-02-2018"
+    },
+    "location": {
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    "tags": [
+      "Javascript",
+      "UX",
+      "Frontend",
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Vue Fes Japan",
+    "url": "https://vuefes.jp/",
+    "location": {
+      "city": "Tokyo",
+      "country": "Japan"
+    },
+    "date": {
+      "start": "11-03-2018",
+      "end": "11-03-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "NodeConf EU",
+    "url": "https://www.nodeconf.eu",
+    "location": {
+      "city": "Kilkenny",
+      "country": "Ireland"
+    },
+    "date": {
+      "start": "11-04-2018",
+      "end": "11-07-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "url": "https://beyondtellerrand.com/events/berlin-2018",
+    "name": "Beyond Tellerrand",
+    "date": {
+      "start": "11-05-2018",
+      "end": "11-07-2018"
+    },
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "tags": [
+      "UX",
+      "Frontend",
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Web Summit",
+    "url": "https://websummit.com",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "date": {
+      "start": "11-05-2018",
+      "end": "11-08-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "DeveloperWeek",
+    "url": "http://www.developerweek.com/Austin",
+    "location": {
+      "city": "Austin",
+      "country": "USA"
+    },
+    "date": {
+      "start": "11-06-2018",
+      "end": "11-08-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "AngularConnect",
+    "url": "http://angularconnect.com",
+    "location": {
+      "city": "London",
+      "country": "UK"
+    },
+    "date": {
+      "start": "11-06-2018",
+      "end": "11-07-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Beyond Tellerrand",
+    "url": "https://beyondtellerrand.com/events/berlin-2018",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "11-07-2018",
+      "end": "11-09-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "performance.now()",
+    "url": "https://perfnow.nl/",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "date": {
+      "start": "11-08-2018",
+      "end": "11-09-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "ffConf",
+    "url": "https://2018.ffconf.org",
+    "location": {
+      "city": "Brighton",
+      "country": "UK"
+    },
+    "date": {
+      "start": "11-08-2018",
+      "end": "11-09-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "dotCSS",
+    "url": "https://2018.dotcss.io",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "11-08-2018",
+      "end": "11-08-2018"
+    },
+    "tags": [
+      "css"
+    ]
+  },
+  {
+    "name": "The Big Elixir",
+    "url": "https://www.thebigelixir.com",
+    "location": {
+      "city": "New Orleans",
+      "country": "USA"
+    },
+    "date": {
+      "start": "11-08-2018",
+      "end": "11-09-2018"
+    },
+    "tags": [
+      "elixir"
+    ]
+  },
+  {
+    "name": "dotJS",
+    "url": "https://2018.dotjs.io",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "11-09-2018",
+      "end": "11-09-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "tcworld conference",
+    "url": "http://conferences.tekom.de",
+    "location": {
+      "city": "Stuttgart",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "11-13-2018",
+      "end": "11-15-2018"
+    },
+    "tags": [
+      "tech-comm"
+    ]
+  },
+  {
+    "name": "ColdFront",
+    "url": "https://2018.coldfront.co",
+    "location": {
+      "city": "Copenhagen",
+      "country": "Denmark"
+    },
+    "date": {
+      "start": "11-13-2018",
+      "end": "11-14-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "ngPoland",
+    "url": "http://ng-poland.pl",
+    "location": {
+      "city": "Warsaw",
+      "country": "Poland"
+    },
+    "date": {
+      "start": "11-15-2018",
+      "end": "11-15-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Write the Docs Australia",
+    "url": "http://www.writethedocs.org/conf/australia/2018/",
+    "location": {
+      "city": "Melbourne",
+      "country": "Australia"
+    },
+    "date": {
+      "start": "11-15-2018",
+      "end": "11-16-2018"
+    },
+    "tags": [
+      "tech-comm"
+    ]
+  },
+  {
+    "name": "php[world]",
+    "url": "https://world.phparch.com",
+    "location": {
+      "city": "Washington, DC",
+      "country": "USA"
+    },
+    "date": {
+      "start": "11-15-2018",
+      "end": "11-16-2018"
+    },
+    "tags": [
+      "php"
+    ]
+  },
+  {
+    "name": "JSConf Colombia",
+    "url": "https://jsconf.co",
+    "location": {
+      "city": "Medellin",
+      "country": "Colombia"
+    },
+    "date": {
+      "start": "11-16-2018",
+      "end": "11-17-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "HalfStack",
+    "url": "http://halfstackconf.com",
+    "location": {
+      "city": "London",
+      "country": "UK"
+    },
+    "date": {
+      "start": "11-16-2018",
+      "end": "11-16-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "DevOpsDay - Shenzhen",
+    "url": "https://www.devopsdays.org/events/2018-shenzhen",
+    "location": {
+      "city": "Shenzhen",
+      "country": "China"
+    },
+    "date": {
+      "start": "11-16-2018",
+      "end": "11-17-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "NodeConf Argentina",
+    "url": "https://2018.nodeconf.com.ar",
+    "location": {
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "date": {
+      "start": "11-18-2018",
+      "end": "11-20-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Pixel Pioneers Belfast",
+    "url": "https://pixelpioneers.co",
+    "location": {
+      "city": "Belfast",
+      "country": "UK"
+    },
+    "date": {
+      "start": "11-23-2018",
+      "end": "11-23-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "JS Kongress",
+    "url": "https://2018.js-kongress.com",
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "date": {
+      "start": "11-26-2018",
+      "end": "11-27-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "LaravelDay",
+    "url": "http://2018.laravelday.it",
+    "location": {
+      "city": "Verona",
+      "country": "Italy"
+    },
+    "date": {
+      "start": "11-30-2018",
+      "end": "11-30-2018"
+    },
+    "tags": [
+      "php"
+    ]
+  },
+  {
+    "name": "Devternity",
+    "url": "https://devternity.com",
+    "location": {
+      "city": "Riga",
+      "country": "Latvia"
+    },
+    "date": {
+      "start": "11-30-2018",
+      "end": "12-01-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "The Rich Web Experience",
+    "url": "https://therichwebexperience.com",
+    "location": {
+      "city": "Clearwater, FL",
+      "country": "USA"
+    },
+    "date": {
+      "start": "12-02-2018",
+      "end": "12-05-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "AI World Conference & Expo",
+    "url": "https://aiworld.com",
+    "location": {
+      "city": "Boston",
+      "country": "USA"
+    },
+    "date": {
+      "start": "12-03-2018",
+      "end": "12-05-2018"
+    },
+    "tags": [
+      "data"
+    ]
+  },
+  {
+    "name": "Chief Data Officer Summit",
+    "url": "https://theinnovationenterprise.com/summits/chief-data-officer-summit-new-york-2018",
+    "location": {
+      "city": "New York",
+      "country": "USA"
+    },
+    "date": {
+      "start": "12-06-2018",
+      "end": "12-07-2018"
+    },
+    "tags": [
+      "data"
+    ]
+  },
+  {
+    "name": "NG-BE",
+    "url": "https://ng-be.org",
+    "location": {
+      "city": "Ghent",
+      "country": "Belgium"
+    },
+    "date": {
+      "start": "12-06-2018",
+      "end": "12-07-2018"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "An Event Apart: San Francisco",
+    "url": "https://aneventapart.com/event/san-francisco-2018",
+    "location": {
+      "city": "San Francisco, CA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "12-10-2018",
+      "end": "12-12-2018"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Devops",
+    "url": "http://www.devops2018.com",
+    "location": {
+      "city": "Helsinki",
+      "country": "Finland"
+    },
+    "date": {
+      "start": "12-13-2018",
+      "end": "12-14-2018"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Agent Conf",
+    "url": "https://www.agent.sh",
+    "location": {
+      "city": "Dornbirn & Lech",
+      "country": "Austria"
+    },
+    "date": {
+      "start": "01-24-2019",
+      "end": "01-27-2019"
+    },
+    "tags": [
+      "Javascript"
+    ]
+  },
+  {
+    "name": "PyTennessee",
+    "url": "https://www.pytennessee.org/",
+    "location": {
+      "city": "Nashville, US",
+      "country": "USA"
+    },
+    "date": {
+      "start": "02-09-2019",
+      "end": "02-10-2019"
+    },
+    "tags": [
+      "python"
+    ]
+  },
+  {
+    "name": "DeveloperWeek",
+    "url": "http://www.developerweek.com",
+    "location": {
+      "city": "San Francisco",
+      "country": "USA"
+    },
+    "date": {
+      "start": "02-20-2019",
+      "end": "02-24-2019"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Techchill",
+    "url": "https://techchill.co",
+    "location": {
+      "city": "Riga",
+      "country": "Latvia"
+    },
+    "date": {
+      "start": "02-21-2019",
+      "end": "02-22-2019"
+    },
+    "tags": [
+      "Developer",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Aiga Design Conference",
+    "url": "http://designconference.aiga.org/",
+    "location": {
+      "city": "Pasadena, CA",
+      "country": "USA"
+    },
+    "date": {
+      "start": "04-04-2019",
+      "end": "04-06-2019"
+    },
+    "tags": [
+      "UX",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "Android Makers",
+    "url": "https://androidmakers.fr",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "date": {
+      "start": "04-22-2019",
+      "end": "04-23-2019"
+    },
+    "tags": [
+      "android"
+    ]
+  },
+  {
+    "name": "RailsConf",
+    "url": "http://railsconf.com/",
+    "location": {
+      "city": "Minneapolis, MN",
+      "country": "USA"
+    },
+    "date": {
+      "start": "04-30-2019",
+      "end": "05-02-2019"
+    },
+    "tags": [
+      "ruby"
+    ]
   }
 ]
