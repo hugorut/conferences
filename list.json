@@ -3585,5 +3585,27 @@
       "Development",
       "Movie"
     ]
+  },
+  {
+    "type": "conference",
+    "name": "Facebook F8",
+    "description": "The Facebook Developer Conference",
+    "url": "https://www.f8.com/",
+    "location": {
+      "city": "San Jose (CA)",
+      "country": "USA"
+    },
+    "date": {
+      "start": "05-1-2018",
+      "end": "05-2-2018"
+    },
+    "tags": [
+      "AI",
+      "VR",
+      "Chatbots",
+      "Facebook",
+      "Development",
+      "Architecture"
+    ]
   }
 ]
