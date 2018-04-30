@@ -15,13 +15,39 @@ Any event that is added needs has the following properties which can be added.
 | description | string | The description of the event.                                                                                                                      | "a truly glorious occasion"                     | true     |
 | location    | object | The location of the event. Split into city & country properties.                                                                                   | {"city": "London", "country": "UK" }            | true     |
 | date        | object | The start and end date of the event given in the format: MM-DD-YYYY.                                                                               | {"start": "01-4-2018","end": "01-5-2018"}       | true     |
-| tags        | array  | Given tags describing themes of the event.                                                                                                         | ["Frontend","UX"]                               | true     |
+| tags        | array  | Given tags describing themes of the event.                                                                                                         | ["Fancy Folk","$$"]                               | true     |
 | price       | object | Pricing information of the event, providing the highest & lowest price of a ticket. Prices should be given as a float rounded to 2 decimal places. | {"currency":"GBP","high": 600.20,"low": 101.21} | true     |
 
+The full json object of the above would look like.
+
+```json
+{
+  "type": "conference",
+  "name": "My Fancy event",
+  "url": "http://fancyevents.com",
+  "location": {
+    "city": "London",
+    "country": "UK"
+  },
+  "date": {
+    "start": "01-4-2018",
+    "end": "01-5-2018"
+  },
+  "tags": [
+    "Fancy Folk",
+    "$$"
+  ],
+  "price": {
+    "currency": "GBP",
+    "high": 600.20,
+    "low": 101.21
+  }
+}
+```
 ## Inspiration
 
 This project was inspired by:
 
-[https://github.com/asciidisco/web-conferences-2018](https://github.com/asciidisco/web-conferences-2018)
-[https://github.com/AndroidStudyGroup/conferences](https://github.com/AndroidStudyGroup/conferences)
+* [https://github.com/asciidisco/web-conferences-2018](https://github.com/asciidisco/web-conferences-2018)
+* [https://github.com/AndroidStudyGroup/conferences](https://github.com/AndroidStudyGroup/conferences)
 
