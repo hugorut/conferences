@@ -18,6 +18,40 @@
   },
   {
     "type": "conference",
+    "name": "Cream City Code 2018",
+    "url": "https://www.eventbrite.com/e/cream-city-code-2018-tickets-44368623748",
+    "description": "Cream City Code is a one-day development conference in the Milwaukee area designed to bring together developers from the Midwest to explore new ideas, code, share knowledge and discover best practices.",
+    "location": {
+      "city": "Milwaukee (WI)",
+      "country": "USA"
+    },
+    "date": {
+      "start": "10-13-2018",
+      "end": "10-13-2018"
+    },
+    "tags": [      
+      ".NET",      
+      "Mobile",
+      "IoT",
+      "AI",
+      "Agile",
+      "JavaScript",
+      "Development",      
+      "Architecture",
+      "DevOps",
+      "Web",
+      "UX",
+      "Creativity",
+      "Java"
+    ],
+    "price": {
+      "currency": "USD",
+      "high": 149.00,
+      "low": 79.00
+    }
+  },
+  {
+    "type": "conference",
     "name": "CodeMash 2018",
     "url": "http://www.codemash.org/",
     "location": {
