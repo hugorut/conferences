@@ -6424,21 +6424,6 @@
     ]
   },
   {
-    "name": "Nebraska JavaScript Conference",
-    "url": "https://2018.nejsconf.com",
-    "location": {
-      "city": "Omaha, NE",
-      "country": "USA"
-    },
-    "date": {
-      "start": "07-27-2018",
-      "end": "07-27-2018"
-    },
-    "tags": [
-      "Javascript"
-    ]
-  },
-  {
     "name": "AgileCrete Meets SoCraTes",
     "url": "https://agilecrete.org",
     "location": {
