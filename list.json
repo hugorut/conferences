@@ -29,14 +29,14 @@
       "start": "10-13-2018",
       "end": "10-13-2018"
     },
-    "tags": [      
-      ".NET",      
+    "tags": [
+      ".NET",
       "Mobile",
       "IoT",
       "AI",
       "Agile",
       "JavaScript",
-      "Development",      
+      "Development",
       "Architecture",
       "DevOps",
       "Web",
@@ -1480,23 +1480,6 @@
     "tags": [
       "Development",
       "Web"
-    ]
-  },
-  {
-    "type": "conference",
-    "name": "Codeland",
-    "url": "http://codelandconf.com/",
-    "location": {
-      "city": "New York (NY)",
-      "country": "USA"
-    },
-    "date": {
-      "start": "05-4-2018",
-      "end": "05-5-2018"
-    },
-    "tags": [
-      "Development",
-      "Newcomers"
     ]
   },
   {
@@ -3586,24 +3569,6 @@
   },
   {
     "type": "conference",
-    "name": "PyCon 2018",
-    "description": "A CodeNewBie conference for community of programmers and people learning to code.",
-    "url": "http://codelandconf.com/",
-    "location": {
-      "city": "New York, NY",
-      "country": "USA"
-    },
-    "date": {
-      "start": "05-4-2018",
-      "end": "05-5-2018"
-    },
-    "tags": [
-      "Development",
-      "Beginners"
-    ]
-  },
-  {
-    "type": "conference",
     "name": "Stir Trek: Infinity War",
     "description": "2,000 software developers converge on a movie theater for a day packed with 48 great talks and a movie.",
     "url": "http://stirtrek.com/",
@@ -3781,6 +3746,7 @@
   },
   {
     "name": "Codeland Conf",
+    "description": "Codeland is an interactive, two-day conference filled with talks, panels, and workshops with the most supportive community of programmers and people learning to code.",
     "url": "http://codelandconf.com",
     "location": {
       "city": "New York City",
@@ -3792,7 +3758,8 @@
     },
     "tags": [
       "Developer",
-      "Architecture"
+      "Architecture",
+      "Beginners"
     ]
   },
   {
