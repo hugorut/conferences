@@ -2093,8 +2093,8 @@
   },
   {
     "type": "conference",
-    "name": "DevIT",
-    "url": "http://devitconf.org/",
+    "name": "DEVit",
+    "url": "https://devitconf.org/",
     "location": {
       "city": "Thessaloniki ",
       "country": "Greece"
