@@ -9046,5 +9046,29 @@
     "tags": [
       "ruby"
     ]
+  },
+  {
+    "type": "conference",
+    "name": "Central Wisconsin IT Conference",
+    "url": "https://cwitc.org",
+    "location": {
+      "city": "Stevens Point, WI",
+      "country": "USA"
+    },
+    "date": {
+      "start": "10-06-2018",
+      "end": "10-06-2018"
+    },
+    "tags": [
+      "Developer",
+      "Community",
+      ".NET",
+      "JavaScript"
+    ],
+    "price": {
+      "currency": "USD",
+      "high": 79.00,
+      "low": 79.00
+    }
   }
 ]
